@@ -1,0 +1,68 @@
+/*
+SPACING SYSTEM (px)
+2 / 4 / 8 / 12 / 16 / 24 / 32 / 48 / 64 / 80 / 96 / 128
+
+FONT WEIGHTS
+
+LINE HEIGHTS
+
+FONT SIZE SYSTEM (px)
+10 / 12 / 14 / 16 / 18 / 20 / 24 / 30 / 36 / 44 / 52 / 62 / 74 / 86 / 98
+*/
+
+/*
+MAIN COLOR: #3A5874
+GREY COLOR: #FECB33
+*/
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 16px;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  color: #555;
+}
+
+img {
+  max-width: 100%;
+}
+
+header {
+  padding: 1.25rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.main-nav-item {
+  display: inline;
+  margin-left: 0.625rem;
+}
+
+.upper-menu-logo {
+  width: 80px;
+}
+
+.logo {
+  margin: 0;
+}
+
+.nav-item-ancor {
+  color: #ebe8e8;
+  text-decoration: none;
+}
+
+.contrate-btn {
+  background-color: #3a5874;
+}
+
+.atrativos {
+  padding: ;
+}
